@@ -23,7 +23,7 @@ sidebar-avatar: /img/head.jpg      # 头像
 weibo_username: Sopyee
 github_username: Sopyee
 zhihu_username: Sopyee
-csdn_username: username
+csdn_username: Sopyee
 
 
 
@@ -94,13 +94,10 @@ friends: [
         title: "GitHub·Sopyee",
         href: "http://Sopyee.github.io"
     },{
-        title: "CSDN·Sopyee",
-        href: "https://blog.csdn.net/qq_39268193"
+        title: "微博·Sopyee",
+        href: "https://weibo.com/u/6911159978"
     },{
         title: "知乎·Sopyee",
-        href: "https://www.zhihu.com/people/RainbomSea"
-    },{
-        title: "GitBook·Sopyeea",
-        href: "https://legacy.gitbook.com/@rainbomsea"
+        href: "https://www.zhihu.com/people/song-ni-ma-jun"
     }
 ]
