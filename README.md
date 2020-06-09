@@ -4,7 +4,7 @@
 
 ## 网站地址
 
-[RainbomSea.xyz](http://rainbomsea.xyz/)
+[QDD184.top](http://qdd184.top/)
 
 ## 示例截图，嘿嘿，还是蛮好看的吧
 
