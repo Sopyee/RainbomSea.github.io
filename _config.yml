@@ -75,6 +75,9 @@ gitalk:
 # Baidu Analytics
 ba_track_id: c2ae862717cec98e2a3286d76b676b79
 
+# Google Analytics
+ga_track_id: 'UA-168879664-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
